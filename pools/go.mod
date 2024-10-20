@@ -1,4 +1,4 @@
-module pools
+module github.com/WCUOOA/pack/pools
 
 go 1.23.1
 
